@@ -1,2 +1,1 @@
-Plugin D&D 5e oficial do RRPG Firecast
-
+Plugin D&D 5e modificado para o firecast
