@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module sdkVersion="3.5" compilationDate="31052021204441" sdkApiVersion="86" originalPluginFileName="DnD5e.rpk" compilationDigest="695425e33a6721c9632794bed61881811aee2d9f">
+<module sdkVersion="3.6c" compilationDate="31052021204441" sdkApiVersion="86" originalPluginFileName="DnD5e.rpk" compilationDigest="695425e33a6721c9632794bed61881811aee2d9f">
 	<!--O id identifica seu módulo globalmente. Deve ser único, conter apenas caracteres alfanuméricos, underlines, pontos e deve conter ao menos 5 caracteres e um máximo de 40. Uma vez definido o ID, você não deve alterar ele ;) -->
 	<id>br.com.rrpg.DnD5_SDK3</id>
 	<!--version é a versão do seu módulo. Quando for lançar uma nova versão do seu módulo, altere aqui =) -->
 	<version>1.0</version>
-	<name>D&amp;D 5e</name>
-	<description>Modelo de ficha de D&amp;D 5ª edição</description>
-	<author>RRPG Firecast</author>
-	<site>http://www.rrpg.com.br</site>
-	<contact>https://www.facebook.com/AlyssonRPG</contact>
-    <dataTypes>
-        <dataType title="D&amp;D 5e" name="frmDnD5" lfmFile="fichaDnD5.lfm">br.com.rrpg.DnD5_S3</dataType>
-    </dataTypes>
+ 
+    <info lang="pt-BR">
+        <!--Informações do plugin na língua "pt-BR". Você pode ter várias tags "info", uma para cada tradução que quiser.-->
+        <name>Ultimate D&amp;D 5e</name>
+        <description>Modelo de ficha de D&amp;D 5ª edição. Essa versão contem algumas modificações de QoL, Automação e Visual.</description>
+        <author>Original: RRPG Firecast. Modder: Krampus</author>
+        <site></site>
+        <contact>pedro_br14@hotmail.com</contact>
+    </info>
 </module>
